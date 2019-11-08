@@ -13,7 +13,7 @@ public class PrintWriterDemo {
 	printWriter.write(100);
 	int a=10;
 	printWriter.println("i am");
-	printWriter.println("vinod bandari");
+	printWriter.println("abcd");
 	printWriter.println(a);
 	
 	printWriter.close();
